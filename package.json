@@ -16,7 +16,7 @@
   "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "conventional-commit-types": "github.com:yxl-snapshot/conventional-commit-types",
+    "conventional-commit-types": "git+https://github.com/yxl-snapshot/conventional-commit-types",
     "lodash.map": "^4.5.1",
     "longest": "git+https://github.com/yxl-snapshot/longest",
     "right-pad": "git+https://github.com/yxl-snapshot/right-pad",
