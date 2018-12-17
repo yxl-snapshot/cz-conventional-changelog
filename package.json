@@ -18,9 +18,9 @@
   "dependencies": {
     "conventional-commit-types": "github.com:yxl-snapshot/conventional-commit-types",
     "lodash.map": "^4.5.1",
-    "longest": "github.com:yxl-snapshot/longest",
-    "right-pad": "github.com:yxl-snapshot/right-pad",
-    "word-wrap": "github.com:yxl-snapshot/word-wrap"
+    "longest": "git+https://github.com/yxl-snapshot/longest",
+    "right-pad": "git+https://github.com/yxl-snapshot/right-pad",
+    "word-wrap": "git+https://github.com/yxl-snapshot/word-wrap"
   },
   "devDependencies": {
     "commitizen": "2.9.6",
